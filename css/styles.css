@@ -1,0 +1,76 @@
+body {
+  background-color: 	#674baf;
+  background-image: url(bg-desktop.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  color: 	#3e52a3;
+}
+
+h1 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 2.5rem;
+}
+
+p {
+  font-size: 1.1rem;
+}
+
+.text-block{
+  height: 500px;
+  width: 500px;
+  position: relative;
+  left: 1000px;
+  bottom: 230px;
+  color: #ffff;
+}
+
+.images-block{
+  height: 500px;
+  width: 500px;
+  position: relative;
+  top: 200px;
+  left: 200px;
+}
+
+.logo {
+  position: relative;
+  bottom: 130px;
+}
+
+.button {
+  font-family: 'Open Sans', sans-serif;
+  color: #674baf;
+  font-size: 1.2rem;
+  border: none;
+  border-radius: 50px;
+  height: 50px;
+  width: 180px;
+  margin-top: 10px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19)
+}
+
+.button:hover{
+  background-color: #c0c0c0;
+}
+
+.social-media {
+  position: relative;
+  left: 1205px;
+  bottom: 200px;
+}
+
+.icon {
+  color: white;
+  font-size: 1.5rem;
+  margin-left: 40px;
+  border: solid;
+  border-radius: 100%;
+  padding: 15px;
+}
